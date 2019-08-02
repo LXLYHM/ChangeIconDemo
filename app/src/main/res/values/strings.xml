@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">替换前名称</string>
+    <string name="app_name_alias">替换后名称</string>
+</resources>
